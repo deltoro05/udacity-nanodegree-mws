@@ -1119,7 +1119,7 @@ The Unicode standard defines the universal character set. Over 100,000 character
 #### Links
 
 - Example: [Unicode instead of an image](http://udacity.github.io/responsive-images/examples/2-08/unicodeStar/)
-- [Unicode character sets](http://unicode-table.com/en/sets/)
+- [Unicode character sets](https://symbl.cc/en/collections/)
 - [List of Unicode characters](http://en.wikipedia.org/wiki/List_of_Unicode_characters)
 
 ### 8.7 Quiz: unicode Treble Clef
@@ -1135,7 +1135,7 @@ It's worth pointing out that in order to use Unicode characters, you need to mak
 
 See the instructor notes for more details on this.
 
-For this quiz, I want you to pretend that you are making a music website. Check out the link to the [Unicode character set](http://unicode-table.com/).  Look through it and see if you can find the symbol for the treble clef. Once you've found it, try it out for yourself and see if it works. Once you're done, paste the HTML code here to continue
+For this quiz, I want you to pretend that you are making a music website. Check out the link to the [Unicode character set](https://symbl.cc/).  Look through it and see if you can find the symbol for the treble clef. Once you've found it, try it out for yourself and see if it works. Once you're done, paste the HTML code here to continue
 
 𝄞
 𝄢
